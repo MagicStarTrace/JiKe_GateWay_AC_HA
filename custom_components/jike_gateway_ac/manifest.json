@@ -1,0 +1,10 @@
+{
+  "domain": "jike_gateway_ac",
+  "name": "JiKe GateWay AC",
+  "documentation": "https://github.com/MagicStarTrace/JiKe_GateWay_AC_HA",
+  "dependencies": [],
+  "codeowners": ["@MagicStarTrace"],
+  "version": "1.0.0",
+  "requirements": ["requests"]
+}
+
